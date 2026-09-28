@@ -46,3 +46,8 @@ Hostel-Issue-Analytics/
 ├── data/
 │   └── issues.json
 └── README.md
+```
+
+## Screenshots
+
+Screenshots of the Student and Admin workflows are available in the `screenshots` folder.

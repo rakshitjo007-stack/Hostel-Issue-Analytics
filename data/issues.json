@@ -8,5 +8,15 @@
         "priority": "High",
         "status": "In Progress",
         "reported_by": "rakshit"
+    },
+    {
+        "ticket_id": "HIA-2",
+        "room": "234",
+        "block": "A",
+        "category": "Electrical",
+        "description": "Wi-Fi not working properly",
+        "priority": "High",
+        "status": "Pending",
+        "reported_by": "gaurav"
     }
 ]
