@@ -1,0 +1,12 @@
+[
+    {
+        "ticket_id": "HIA-1",
+        "room": "101",
+        "block": "A",
+        "category": "Plumbing",
+        "description": "Washbasin tap is leaking",
+        "priority": "High",
+        "status": "In Progress",
+        "reported_by": "rakshit"
+    }
+]
